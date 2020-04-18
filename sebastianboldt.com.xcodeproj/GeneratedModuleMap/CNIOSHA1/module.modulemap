@@ -1,0 +1,4 @@
+module CNIOSHA1 {
+    umbrella "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/CNIOSHA1/include"
+    export *
+}

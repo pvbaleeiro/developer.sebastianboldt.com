@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Sebastian Boldt - Software Developer and Musician</title>
+        <title>Victor Baleeiro - Software Developer</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="apple-mobile-web-app-capable" content="yes">
         <link rel="stylesheet" href="styles/normalize.css">
@@ -18,31 +18,28 @@
         <div class="container">
 
             <div class="header">
-                <img src="memoji.png" alt="Sebastian Boldt" height="200" width="200">
+                <img class="circular--square" src="avatar.png" alt="Victor Baleeiro" width="200" height="200">
                 <h3 class="main-header"> $ hello world</h3>
 
                 <ul class="social-buttons">
-                    <li> <a href="https://github.com/SebastianBoldt"><i class="fab fa-github fa-lg"></i></a></li>
-                    <li> <a href="https://www.linkedin.com/in/sebastian-boldt-9b465261/"><i class="fab fa-linkedin fa-lg"></i></a></li>
-                    <li> <a href="https://www.xing.com/profile/Sebastian_Boldt8"><i class="fab fa-xing fa-lg"></i></a></li>
-                    <li> <a href="https://stackoverflow.com/users/1448340/sebastian-boldt"><i class="fab fa-stack-overflow fa-lg"></i></a></li>
-                    <li> <a href="https://medium.com/@sebastianbo"><i class="fab fa-medium fa-lg"></i></a></li>
-                    <li> <a href="https://twitter.com/SebastianBoldt"><i class="fab fa-twitter fa-lg"></i></a></li>
-                    <li> <a href="https://www.instagram.com/sebastianboldt/"><i class="fab fa-instagram fa-lg"></i></a></li>
-                    <li> <a href="https://soundcloud.com/sebastian_boldt/"><i class="fas fa-music"></i></a></li>
+                    <li> <a href="https://github.com/pvbaleeiro?tab=repositories"><i class="fab fa-github fa-lg"></i></a></li>
+                    <li> <a href="https://www.linkedin.com/in/paulo-victor-baleeiro-ferreira-b9236367//"><i class="fab fa-linkedin fa-lg"></i></a></li>
+                    <li> <a href="https://stackoverflow.com/users/13349907/pvbaleeiro"><i class="fab fa-stack-overflow fa-lg"></i></a></li>
+                    <li> <a href="https://medium.com/@victorbaleeiro"><i class="fab fa-medium fa-lg"></i></a></li>
+                    <li> <a href="https://twitter.com/pvbaleeiro"><i class="fab fa-twitter fa-lg"></i></a></li>
+                    <li> <a href="https://www.instagram.com/victorbaleeiro/"><i class="fab fa-instagram fa-lg"></i></a></li>
                 </ul>
 
                 <div class="separator"></div>
                 <div style="margin-top:3em">
-                    Hi, my name is Sebastian Boldt. <br>
-                    I am an iOS developer and musician based in Hamburg.
+                    Hi, my name is Victor Baleeiro. <br>
+                    I am an iOS developer based in Sorocaba-SP Brazil.
                 </div>
             </div>
 
 
             <div class="destiny row">
                 <div style="text-align: center" class= "six columns"> <a href="/developer"> I write code. </a>  </div>
-                <div style="text-align: center" class= "six columns"> <a href="/music"> I make music. </a> </div>
             </div>
 
             <div class="footer">written in Swift using Vapor 3.0
