@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "7e3af8c6cedc5580f983c898f893887e"
+build_time: [1587260474, 724583000]
+inputs:
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIOPriorityQueue/Heap.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIOPriorityQueue/PriorityQueue.swift": [9223372036, 854775807]

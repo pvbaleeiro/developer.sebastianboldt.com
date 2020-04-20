@@ -1,0 +1,4 @@
+module NIOTLS {
+    header "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIOTLS.build/NIOTLS-Swift.h"
+    requires objc
+}

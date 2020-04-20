@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "80d1599012d99c23507f5c936a14813c"
+build_time: [1587260496, 963956000]
+inputs:
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIOWebSocket/Base64.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIOWebSocket/SHA1.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketErrorCodes.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrame.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrameDecoder.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrameEncoder.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketOpcode.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketProtocolErrorHandler.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketUpgrader.swift": [9223372036, 854775807]

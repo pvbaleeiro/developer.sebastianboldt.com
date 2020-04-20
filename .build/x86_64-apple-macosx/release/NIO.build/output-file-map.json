@@ -1,0 +1,267 @@
+{
+  "": {
+    "dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/NIO.d",
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/NIO.o",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/master.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/AddressedEnvelope.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/AddressedEnvelope.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/AddressedEnvelope~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/AddressedEnvelope.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/BaseSocket.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/BaseSocket.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/BaseSocket~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/BaseSocket.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/BaseSocketChannel.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/BaseSocketChannel.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/BaseSocketChannel~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/BaseSocketChannel.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/BlockingIOThreadPool.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/BlockingIOThreadPool.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/BlockingIOThreadPool~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/BlockingIOThreadPool.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/Bootstrap.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Bootstrap.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Bootstrap~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Bootstrap.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/ByteBuffer-aux.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/ByteBuffer-aux.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/ByteBuffer-aux~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/ByteBuffer-aux.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/ByteBuffer-core.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/ByteBuffer-core.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/ByteBuffer-core~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/ByteBuffer-core.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/ByteBuffer-int.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/ByteBuffer-int.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/ByteBuffer-int~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/ByteBuffer-int.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/ByteBuffer-views.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/ByteBuffer-views.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/ByteBuffer-views~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/ByteBuffer-views.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/Channel.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Channel.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Channel~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Channel.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/ChannelHandler.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/ChannelHandler.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/ChannelHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/ChannelHandler.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/ChannelHandlers.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/ChannelHandlers.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/ChannelHandlers~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/ChannelHandlers.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/ChannelInvoker.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/ChannelInvoker.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/ChannelInvoker~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/ChannelInvoker.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/ChannelOption.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/ChannelOption.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/ChannelOption~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/ChannelOption.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/ChannelPipeline.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/ChannelPipeline.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/ChannelPipeline~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/ChannelPipeline.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/CircularBuffer.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/CircularBuffer.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/CircularBuffer~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/CircularBuffer.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/Codec.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Codec.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Codec~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Codec.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/CompositeError.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/CompositeError.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/CompositeError~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/CompositeError.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/DeadChannel.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/DeadChannel.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/DeadChannel~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/DeadChannel.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/Embedded.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Embedded.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Embedded~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Embedded.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/EventLoop.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/EventLoop.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/EventLoop~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/EventLoop.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/EventLoopFuture.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/EventLoopFuture.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/EventLoopFuture~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/EventLoopFuture.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/FileDescriptor.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/FileDescriptor.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/FileDescriptor~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/FileDescriptor.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/FileHandle.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/FileHandle.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/FileHandle~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/FileHandle.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/FileRegion.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/FileRegion.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/FileRegion~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/FileRegion.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/GetaddrinfoResolver.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/GetaddrinfoResolver.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/GetaddrinfoResolver~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/GetaddrinfoResolver.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/HappyEyeballs.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/HappyEyeballs.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/HappyEyeballs~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/HappyEyeballs.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/Heap.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Heap.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Heap~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Heap.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/IO.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/IO.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/IO~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/IO.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/IOData.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/IOData.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/IOData~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/IOData.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/IntegerTypes.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/IntegerTypes.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/IntegerTypes~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/IntegerTypes.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/Interfaces.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Interfaces.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Interfaces~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Interfaces.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/Linux.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Linux.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Linux~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Linux.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/LinuxCPUSet.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/LinuxCPUSet.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/LinuxCPUSet~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/LinuxCPUSet.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/MarkedCircularBuffer.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/MarkedCircularBuffer.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/MarkedCircularBuffer~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/MarkedCircularBuffer.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/NIOAny.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/NIOAny.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/NIOAny~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/NIOAny.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/NonBlockingFileIO.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/NonBlockingFileIO.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/NonBlockingFileIO~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/NonBlockingFileIO.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/PendingDatagramWritesManager.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/PendingDatagramWritesManager.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/PendingDatagramWritesManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/PendingDatagramWritesManager.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/PendingWritesManager.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/PendingWritesManager.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/PendingWritesManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/PendingWritesManager.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/PriorityQueue.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/PriorityQueue.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/PriorityQueue~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/PriorityQueue.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/RecvByteBufferAllocator.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/RecvByteBufferAllocator.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/RecvByteBufferAllocator~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/RecvByteBufferAllocator.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/Resolver.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Resolver.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Resolver~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Resolver.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/Selectable.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Selectable.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Selectable~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Selectable.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/Selector.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Selector.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Selector~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Selector.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/ServerSocket.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/ServerSocket.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/ServerSocket~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/ServerSocket.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/Socket.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Socket.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Socket~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Socket.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/SocketAddresses.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/SocketAddresses.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/SocketAddresses~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/SocketAddresses.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/SocketChannel.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/SocketChannel.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/SocketChannel~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/SocketChannel.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/System.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/System.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/System~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/System.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/Thread.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Thread.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Thread~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Thread.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/TypeAssistedChannelHandler.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/TypeAssistedChannelHandler.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/TypeAssistedChannelHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/TypeAssistedChannelHandler.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIO/Utilities.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Utilities.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Utilities~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIO.build/Utilities.swiftdeps"
+  }
+}

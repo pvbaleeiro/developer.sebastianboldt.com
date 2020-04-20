@@ -1,0 +1,132 @@
+{
+  "": {
+    "dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/HTTP.d",
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/HTTP.o",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/master.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/http/Sources/HTTP/Body/HTTPBody.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Body/HTTPBody.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Body/HTTPBody~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Body/HTTPBody.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/http/Sources/HTTP/Body/HTTPBodyRepresentable.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Body/HTTPBodyRepresentable.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Body/HTTPBodyRepresentable~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Body/HTTPBodyRepresentable.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/http/Sources/HTTP/Body/HTTPBodyStorage.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Body/HTTPBodyStorage.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Body/HTTPBodyStorage~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Body/HTTPBodyStorage.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/http/Sources/HTTP/Body/HTTPChunkedStream.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Body/HTTPChunkedStream.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Body/HTTPChunkedStream~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Body/HTTPChunkedStream.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/http/Sources/HTTP/Codable/HTTPMessageCoder.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Codable/HTTPMessageCoder.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Codable/HTTPMessageCoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Codable/HTTPMessageCoder.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/http/Sources/HTTP/Cookies/HTTPCookieValue.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Cookies/HTTPCookieValue.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Cookies/HTTPCookieValue~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Cookies/HTTPCookieValue.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/http/Sources/HTTP/Cookies/HTTPCookies.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Cookies/HTTPCookies.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Cookies/HTTPCookies~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Cookies/HTTPCookies.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/http/Sources/HTTP/Exports.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Exports.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Exports.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/http/Sources/HTTP/Message/Forwarded.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Message/Forwarded.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Message/Forwarded~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Message/Forwarded.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/http/Sources/HTTP/Message/HTTPHeaderName.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Message/HTTPHeaderName.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Message/HTTPHeaderName~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Message/HTTPHeaderName.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/http/Sources/HTTP/Message/HTTPHeaders.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Message/HTTPHeaders.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Message/HTTPHeaders~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Message/HTTPHeaders.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/http/Sources/HTTP/Message/HTTPMessage.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Message/HTTPMessage.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Message/HTTPMessage~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Message/HTTPMessage.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/http/Sources/HTTP/Message/HTTPRequest.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Message/HTTPRequest.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Message/HTTPRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Message/HTTPRequest.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/http/Sources/HTTP/Message/HTTPResponse.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Message/HTTPResponse.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Message/HTTPResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Message/HTTPResponse.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/http/Sources/HTTP/Message/MediaTypePreference.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Message/MediaTypePreference.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Message/MediaTypePreference~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Message/MediaTypePreference.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/http/Sources/HTTP/Message/URL+HTTP.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Message/URL+HTTP.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Message/URL+HTTP~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Message/URL+HTTP.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/http/Sources/HTTP/Responder/HTTPClient.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Responder/HTTPClient.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Responder/HTTPClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Responder/HTTPClient.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/http/Sources/HTTP/Responder/HTTPClientProtocolUpgrader.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Responder/HTTPClientProtocolUpgrader.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Responder/HTTPClientProtocolUpgrader~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Responder/HTTPClientProtocolUpgrader.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/http/Sources/HTTP/Responder/HTTPScheme.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Responder/HTTPScheme.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Responder/HTTPScheme~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Responder/HTTPScheme.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/http/Sources/HTTP/Responder/HTTPServer.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Responder/HTTPServer.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Responder/HTTPServer~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Responder/HTTPServer.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/http/Sources/HTTP/Responder/HTTPServerResponder.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Responder/HTTPServerResponder.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Responder/HTTPServerResponder~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Responder/HTTPServerResponder.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/http/Sources/HTTP/Utilities/HTTPError.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Utilities/HTTPError.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Utilities/HTTPError~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Utilities/HTTPError.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/http/Sources/HTTP/Utilities/HTTPHeaders+Basic.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Utilities/HTTPHeaders+Basic.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Utilities/HTTPHeaders+Basic~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Utilities/HTTPHeaders+Basic.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/http/Sources/HTTP/Utilities/HTTPHeaders+Bearer.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Utilities/HTTPHeaders+Bearer.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Utilities/HTTPHeaders+Bearer~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Utilities/HTTPHeaders+Bearer.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/http/Sources/HTTP/Utilities/RFC1123.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Utilities/RFC1123.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Utilities/RFC1123~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/HTTP.build/Utilities/RFC1123.swiftdeps"
+  }
+}

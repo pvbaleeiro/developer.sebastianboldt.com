@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "fb385f88a570f1b0c871cd79db03f8fa"
+build_time: [1587260491, 822263000]
+inputs:
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIOTLS/ApplicationProtocolNegotiationHandler.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIOTLS/SNIHandler.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIOTLS/TLSEvents.swift": [9223372036, 854775807]

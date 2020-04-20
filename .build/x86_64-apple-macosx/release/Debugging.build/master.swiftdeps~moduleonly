@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "11ce54ca0a79720c1041fd2d282d0d56"
+build_time: [1587260474, 724668000]
+inputs:
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/core/Sources/Debugging/Debuggable.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/core/Sources/Debugging/Demangler.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/core/Sources/Debugging/SourceLocation.swift": [9223372036, 854775807]

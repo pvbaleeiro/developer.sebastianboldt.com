@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "67d290dfb94d6c4cc892be633fa39b0d"
+build_time: [1587260513, 412589000]
+inputs:
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/validation/Sources/Validation/Exports.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/validation/Sources/Validation/Validatable.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/validation/Sources/Validation/ValidationError.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/validation/Sources/Validation/Validations.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/validation/Sources/Validation/Validator.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/validation/Sources/Validation/ValidatorType.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/validation/Sources/Validation/Validators/AndValidator.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/validation/Sources/Validation/Validators/CharacterSetValidator.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/validation/Sources/Validation/Validators/CountValidator.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/validation/Sources/Validation/Validators/EmailValidator.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/validation/Sources/Validation/Validators/EmptyValidator.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/validation/Sources/Validation/Validators/InValidator.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/validation/Sources/Validation/Validators/NilIgnoringValidator.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/validation/Sources/Validation/Validators/NilValidator.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/validation/Sources/Validation/Validators/NotValidator.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/validation/Sources/Validation/Validators/OrValidator.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/validation/Sources/Validation/Validators/RangeValidator.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/validation/Sources/Validation/Validators/URLValidator.swift": [9223372036, 854775807]

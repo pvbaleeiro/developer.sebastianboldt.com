@@ -1,0 +1,4 @@
+module Validation {
+    header "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/Validation.build/Validation-Swift.h"
+    requires objc
+}

@@ -1,0 +1,27 @@
+{
+  "": {
+    "dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/Random.build/Random.d",
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/Random.build/Random.o",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/Random.build/master.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/crypto/Sources/Random/Array+Random.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/Random.build/Array+Random.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/Random.build/Array+Random~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/Random.build/Array+Random.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/crypto/Sources/Random/OSRandom.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/Random.build/OSRandom.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/Random.build/OSRandom~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/Random.build/OSRandom.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/crypto/Sources/Random/RandomProtocol.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/Random.build/RandomProtocol.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/Random.build/RandomProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/Random.build/RandomProtocol.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/crypto/Sources/Random/URandom.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/Random.build/URandom.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/Random.build/URandom~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/Random.build/URandom.swiftdeps"
+  }
+}

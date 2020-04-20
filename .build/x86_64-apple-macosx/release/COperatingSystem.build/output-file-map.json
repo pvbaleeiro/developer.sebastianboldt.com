@@ -1,0 +1,12 @@
+{
+  "": {
+    "dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/COperatingSystem.build/COperatingSystem.d",
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/COperatingSystem.build/COperatingSystem.o",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/COperatingSystem.build/master.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/core/Sources/COperatingSystem/libc.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/COperatingSystem.build/libc.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/COperatingSystem.build/libc~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/COperatingSystem.build/libc.swiftdeps"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "": {
+    "dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIOTLS.build/NIOTLS.d",
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIOTLS.build/NIOTLS.o",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIOTLS.build/master.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIOTLS/ApplicationProtocolNegotiationHandler.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIOTLS.build/ApplicationProtocolNegotiationHandler.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIOTLS.build/ApplicationProtocolNegotiationHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIOTLS.build/ApplicationProtocolNegotiationHandler.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIOTLS/SNIHandler.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIOTLS.build/SNIHandler.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIOTLS.build/SNIHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIOTLS.build/SNIHandler.swiftdeps"
+  },
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/swift-nio/Sources/NIOTLS/TLSEvents.swift": {
+    "object": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIOTLS.build/TLSEvents.swift.o",
+    "swiftmodule": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIOTLS.build/TLSEvents~partial.swiftmodule",
+    "swift-dependencies": "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIOTLS.build/TLSEvents.swiftdeps"
+  }
+}

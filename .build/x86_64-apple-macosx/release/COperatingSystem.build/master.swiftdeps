@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "fb2702fa5a08ec65a304f403aa77b178"
+build_time: [1587260475, 344395000]
+inputs:
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/core/Sources/COperatingSystem/libc.swift": [9223372036, 854775807]

@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "8d163884047c876d5dee7364d576ea70"
+build_time: [1587260520, 347445000]
+inputs:
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/websocket/Sources/WebSocket/Exports.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/websocket/Sources/WebSocket/WebSocket+Client.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/websocket/Sources/WebSocket/WebSocket+Server.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/websocket/Sources/WebSocket/WebSocket.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/websocket/Sources/WebSocket/WebSocketHandler.swift": [9223372036, 854775807]

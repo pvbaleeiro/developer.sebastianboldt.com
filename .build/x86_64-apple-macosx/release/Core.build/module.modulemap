@@ -1,0 +1,4 @@
+module Core {
+    header "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/Core.build/Core-Swift.h"
+    requires objc
+}

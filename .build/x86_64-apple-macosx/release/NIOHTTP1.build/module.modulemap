@@ -1,0 +1,4 @@
+module NIOHTTP1 {
+    header "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIOHTTP1.build/NIOHTTP1-Swift.h"
+    requires objc
+}

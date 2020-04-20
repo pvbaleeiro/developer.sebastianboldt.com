@@ -1,0 +1,71 @@
+{
+  "allExecutables" : [
+    "NIOPerformanceTester",
+    "NIOHTTP1Server",
+    "Run",
+    "NIOWebSocketServer",
+    "NIOEchoClient",
+    "NIOChatClient",
+    "NIOEchoServer",
+    "NIOTLSServer",
+    "NIOChatServer"
+  ],
+  "builtTestProducts" : [
+    {
+      "packageName" : "sebastianboldt.com",
+      "productName" : "sebastianboldt.comPackageTests",
+      "testBinary" : "\/Users\/victorbaleeiro\/git\/github\/victor\/site\/victor-baleeiro-site\/.build\/x86_64-apple-macosx\/release\/sebastianboldt.comPackageTests.xctest\/Contents\/MacOS\/sebastianboldt.comPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "rootExecutables" : [
+    "Run"
+  ],
+  "swiftTargetMap" : {
+    "C.App-release.module" : "App",
+    "C.AppTests-release.module" : "AppTests",
+    "C.Async-release.module" : "Async",
+    "C.Bits-release.module" : "Bits",
+    "C.Command-release.module" : "Command",
+    "C.Console-release.module" : "Console",
+    "C.COperatingSystem-release.module" : "COperatingSystem",
+    "C.Core-release.module" : "Core",
+    "C.Crypto-release.module" : "Crypto",
+    "C.DatabaseKit-release.module" : "DatabaseKit",
+    "C.Debugging-release.module" : "Debugging",
+    "C.HTTP-release.module" : "HTTP",
+    "C.Leaf-release.module" : "Leaf",
+    "C.Logging-release.module" : "Logging",
+    "C.Multipart-release.module" : "Multipart",
+    "C.NIO-release.module" : "NIO",
+    "C.NIOChatClient-release.module" : "NIOChatClient",
+    "C.NIOChatServer-release.module" : "NIOChatServer",
+    "C.NIOConcurrencyHelpers-release.module" : "NIOConcurrencyHelpers",
+    "C.NIOEchoClient-release.module" : "NIOEchoClient",
+    "C.NIOEchoServer-release.module" : "NIOEchoServer",
+    "C.NIOFoundationCompat-release.module" : "NIOFoundationCompat",
+    "C.NIOHTTP1-release.module" : "NIOHTTP1",
+    "C.NIOHTTP1Server-release.module" : "NIOHTTP1Server",
+    "C.NIOOpenSSL-release.module" : "NIOOpenSSL",
+    "C.NIOPerformanceTester-release.module" : "NIOPerformanceTester",
+    "C.NIOPriorityQueue-release.module" : "NIOPriorityQueue",
+    "C.NIOTLS-release.module" : "NIOTLS",
+    "C.NIOTLSServer-release.module" : "NIOTLSServer",
+    "C.NIOWebSocket-release.module" : "NIOWebSocket",
+    "C.NIOWebSocketServer-release.module" : "NIOWebSocketServer",
+    "C.Random-release.module" : "Random",
+    "C.Routing-release.module" : "Routing",
+    "C.Run-release.module" : "Run",
+    "C.Service-release.module" : "Service",
+    "C.TemplateKit-release.module" : "TemplateKit",
+    "C.URLEncodedForm-release.module" : "URLEncodedForm",
+    "C.Validation-release.module" : "Validation",
+    "C.Vapor-release.module" : "Vapor",
+    "C.WebSocket-release.module" : "WebSocket"
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}

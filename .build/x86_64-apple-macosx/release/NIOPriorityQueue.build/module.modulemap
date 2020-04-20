@@ -1,0 +1,4 @@
+module NIOPriorityQueue {
+    header "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/NIOPriorityQueue.build/NIOPriorityQueue-Swift.h"
+    requires objc
+}

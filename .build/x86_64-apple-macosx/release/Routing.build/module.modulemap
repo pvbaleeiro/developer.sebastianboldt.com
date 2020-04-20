@@ -1,0 +1,4 @@
+module Routing {
+    header "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/Routing.build/Routing-Swift.h"
+    requires objc
+}

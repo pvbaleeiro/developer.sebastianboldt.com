@@ -1,0 +1,4 @@
+module Crypto {
+    header "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/Crypto.build/Crypto-Swift.h"
+    requires objc
+}

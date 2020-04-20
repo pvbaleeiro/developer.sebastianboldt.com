@@ -1,0 +1,4 @@
+module WebSocket {
+    header "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/WebSocket.build/WebSocket-Swift.h"
+    requires objc
+}

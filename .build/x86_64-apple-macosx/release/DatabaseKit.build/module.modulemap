@@ -1,0 +1,4 @@
+module DatabaseKit {
+    header "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/DatabaseKit.build/DatabaseKit-Swift.h"
+    requires objc
+}

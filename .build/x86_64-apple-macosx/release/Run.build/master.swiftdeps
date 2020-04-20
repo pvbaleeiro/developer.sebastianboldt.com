@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "6311ac4c81df10dfe4e5af4deacb0c12"
+build_time: [1587260528, 425923000]
+inputs:
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/Sources/Run/main.swift": [9223372036, 854775807]

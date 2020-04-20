@@ -1,0 +1,4 @@
+module TemplateKit {
+    header "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/TemplateKit.build/TemplateKit-Swift.h"
+    requires objc
+}

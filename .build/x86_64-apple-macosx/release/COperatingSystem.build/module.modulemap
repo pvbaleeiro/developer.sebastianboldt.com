@@ -1,0 +1,4 @@
+module COperatingSystem {
+    header "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/COperatingSystem.build/COperatingSystem-Swift.h"
+    requires objc
+}

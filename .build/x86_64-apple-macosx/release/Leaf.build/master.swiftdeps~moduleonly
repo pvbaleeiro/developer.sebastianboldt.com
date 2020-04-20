@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "177792531360cd33095bbeaf27d42ce4"
+build_time: [1587260521, 169354000]
+inputs:
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/leaf/Sources/Leaf/Parser/Byte+Leaf.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/leaf/Sources/Leaf/Parser/LeafParser.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/leaf/Sources/Leaf/Renderer/LeafRenderer.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/leaf/Sources/Leaf/Service/LeafConfig.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/leaf/Sources/Leaf/Service/LeafProvider.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/leaf/Sources/Leaf/Service/LeafTagConfig.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/leaf/Sources/Leaf/Utilities/Data.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/leaf/Sources/Leaf/Utilities/Exports.swift": [9223372036, 854775807]

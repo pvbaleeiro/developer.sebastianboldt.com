@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "2dd219dcafc0b76b91d86c45f51e81a5"
+build_time: [1587260493, 296324000]
+inputs:
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/crypto/Sources/Random/Array+Random.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/crypto/Sources/Random/OSRandom.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/crypto/Sources/Random/RandomProtocol.swift": [9223372036, 854775807]
+  "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/checkouts/crypto/Sources/Random/URandom.swift": [9223372036, 854775807]

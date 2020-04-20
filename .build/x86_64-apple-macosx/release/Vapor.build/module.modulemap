@@ -1,0 +1,4 @@
+module Vapor {
+    header "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/Vapor.build/Vapor-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+module Async {
+    header "/Users/victorbaleeiro/git/github/victor/site/victor-baleeiro-site/.build/x86_64-apple-macosx/release/Async.build/Async-Swift.h"
+    requires objc
+}
